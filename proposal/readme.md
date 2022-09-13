@@ -24,25 +24,52 @@
 ### Outlet
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
+UUID | string | ooj73849r734mf34r3
+nama | string | abc cafe
+username | string | admin1
+password | text | hash(password)
+lokasi | point | lat, lon
+kapasitas_penyimpanan | int | 40
 
 ### Supplier
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
-
-### User
-Nama Atribut | Tipe Data | Contoh
----|---|---
+UUID | string | ooj73849r734mf34r3
+nama | string | abc cafe
+username | string | admin1
+password | text | hash(password)
+lokasi | point | lat, lon
 
 ### Bahan Baku
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
+UUID | string | ooj73849r734mf34r3
+name | string | beras
+satuan | string | kg
+ketahanan | int | 4 (Mingguan)
+
+### Menu
+Nama Atribut | Tipe Data | Contoh
+---|---|---
+UUID | string | ooj73849r734mf34r3
+nama | string | rujak
+harga | int | 20000
+kategori| int | 0: makanan, 1: minuman
 
 ### Resep
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
+UUID | string | ooj73849r734mf34r3
+UUID_bahan_baku | string | ooj73849r734mf34r3
+UUID_menu | string | ooj73849r734mf34r3
+qty | int | 2
 
-### Inventori
+### Penyimpanan
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
+UUID | string | ooj73849r734mf34r3
+UUID_bahan_baku | string | ooj73849r734mf34r3
+UUID_outlet | string | ooj73849r734mf34r3
+qty | int | 5
 
 ## Mockup UX
