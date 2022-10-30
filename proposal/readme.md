@@ -105,3 +105,4 @@ densitas | int | 20 (Percent)
 nilaiPengurang | double | 6.55
 
 ## Mockup UX
+![Destinasi](mockup-home.png)
