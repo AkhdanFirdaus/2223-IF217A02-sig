@@ -109,3 +109,4 @@ nilaiPengurang | double | 6.55
 ![Home](mockup-home.png)
 ![Wilayah](mockup-wilayah.png)
 ![Laporan](mockup-laporan.png)
+![Tambah Laporan](mockup-tambah-laporan.png)
