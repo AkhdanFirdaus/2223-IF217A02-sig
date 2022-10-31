@@ -104,9 +104,14 @@ keparahan | string | R
 jumlahPanel | int | 2
 densitas | int | 20 (Percent)
 nilaiPengurang | double | 6.55
+tanggal | datetime | 2022-10-30 07:30:00
 
 ## Mockup UX
 ![Home](mockup-home.png)
 ![Wilayah](mockup-wilayah.png)
 ![Laporan](mockup-laporan.png)
 ![Tambah Laporan](mockup-tambah-laporan.png)
+
+## Repository Project
+[Client App](https://github.com/AkhdanFirdaus/2223-IF217A02-sig-client-app)
+[Server App](https://github.com/AkhdanFirdaus/2223-IF217A02-sig-server-app)
