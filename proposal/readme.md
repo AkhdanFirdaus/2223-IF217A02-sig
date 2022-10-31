@@ -108,3 +108,4 @@ nilaiPengurang | double | 6.55
 ## Mockup UX
 ![Home](mockup-home.png)
 ![Wilayah](mockup-wilayah.png)
+![Laporan](mockup-wilayah.png)
