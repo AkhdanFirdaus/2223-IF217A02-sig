@@ -113,5 +113,5 @@ tanggal | datetime | 2022-10-30 07:30:00
 ![Tambah Laporan](mockup-tambah-laporan.png)
 
 ## Repository Project
-[Client App](https://github.com/AkhdanFirdaus/2223-IF217A02-sig-client-app)
-[Server App](https://github.com/AkhdanFirdaus/2223-IF217A02-sig-server-app)
+- [Client App](https://github.com/AkhdanFirdaus/gis-client-app)
+- [Server App](https://github.com/AkhdanFirdaus/gis-server-app)
