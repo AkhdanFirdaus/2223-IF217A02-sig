@@ -42,6 +42,7 @@ uuid | string | ooj73849r734mf34r3
 wilayahUid | string | ooj73849r734mf34r3 [Opsional]
 nama | string | ooj73849r734mf34r3
 🌏 area | polygon | [[106.03794 -6.39284693], [106.03794 -6.39284693], [106.03794 -6.39284693]]
+luas | int | 427.342
 level | int | ... 3: kab/kota ...
 
 ### Ruas Jalan
@@ -105,4 +106,5 @@ densitas | int | 20 (Percent)
 nilaiPengurang | double | 6.55
 
 ## Mockup UX
-![Destinasi](mockup-home.png)
+![Home](mockup-home.png)
+![Wilayah](mockup-wilayah.png)
